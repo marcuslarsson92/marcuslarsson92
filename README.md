@@ -22,8 +22,9 @@
 
 ## 🤳 Connect with me:
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px" />](https://www.linkedin.com/in/marcus-larsson-a16409249/)  
-📧 marcuslarsson92@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcus-larsson-a16409249/)
+[![Email](https://img.shields.io/badge/Email-marcuslarsson92@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcuslarsson92@gmail.com)
+
 
 ---
 
