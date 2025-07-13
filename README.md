@@ -5,18 +5,18 @@
 
 ## 👨‍💻 Software Development Projects:
 
-- **Computer Science Student**
-  - Currently working on a fun side project, a music quiz web application in NextJS.
+- **TuneQuiz: A fun side project, creating a musicquiz webbapplication in NextJS**
   - [TuneQuiz](https://github.com/marcuslarsson92/tunequiz)
 
 - **Language Learner: AI-Driven Real-Time Conversational Analytics (NodeJS, Firebase, OpenAI)**
   - [SpeechAI Server](https://github.com/marcuslarsson92/SpeechAI_Server)
+ 
+- **SAM_Messenger: Datacommunication project, first server/client chattapplication (Java)**
+  - [SAM_Messenger](https://github.com/marcuslarsson92/SAM_Messenger)
 
 - **Finans Portalen Webpage: Your Social Trading Hub (HTML, CSS, JavaScript)**
   - [Finans Portalen (Frontend)](https://github.com/marcuslarsson92/FP_First)
 
-- **OnlineStore: A PostgreSQL-Powered Marketplace (Java, PostgreSQL)**
-  - [OnlineStore](https://github.com/marcuslarsson92/OnlineStore)
 
 ---
 
