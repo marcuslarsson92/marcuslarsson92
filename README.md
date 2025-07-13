@@ -13,8 +13,11 @@
  
 - **SAM_Messenger: Datacommunication project, first server/client chattapplication (Java)**
   - [SAM_Messenger](https://github.com/marcuslarsson92/SAM_Messenger)
-
-- **Finans Portalen Webpage: Your Social Trading Hub (HTML, CSS, JavaScript)**
+    
+- **Finans Portalen Server: Your Social Trading Hub (Java, SpringBoot)**
+  - [Finans Portalen (Backend)](https://github.com/marcuslarsson92/FP_Server)
+    
+- **Finans Portalen Frontend: Your Social Trading Hub (HTML, CSS, JavaScript)**
   - [Finans Portalen (Frontend)](https://github.com/marcuslarsson92/FP_First)
 
 
