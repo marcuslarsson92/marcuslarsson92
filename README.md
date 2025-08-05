@@ -1,6 +1,6 @@
 # Hello, my name is [Marcus](https://www.linkedin.com/in/marcus-larsson-a16409249/)!
 
-I'm a passionate Computer Science graduate with a strong interest in full-stack development. I enjoy turning ideas into functional software, building everything from backend systems to engaging web applications. With a background in sales, I'm also skilled at clearly communicating ideas and expressing myself beyond technical contexts.
+I'm a passionate Computer Science graduate with a strong interest in full-stack development. I enjoy building everything from backend systems to engaging web applications. With a background in sales, I'm also skilled at clearly communicating ideas and expressing myself beyond technical contexts.
 
 ---
 
